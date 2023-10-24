@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sobre mim!
+# Sobre Mim
 
-<!--
-**NatanWillianNo/NatanWillianNo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou Natan 
 
-Here are some ideas to get you started:
+👋 Sou um apaixonado por programação, com um profundo interesse em criar soluções inovadoras e compartilhar conhecimento com a comunidade. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experiência
+
+- 💻 Estagiário no [Laboratório de Relações Internacionais da UNESP] (https://labriunesp.org/) - [Out/2023] - Presente
+- 🎓 Bacharelando em [Relações Internacionais] na [Faculdade de Ciências Humanas e Sociais - Câmpus de Franca] (https://pt.wikipedia.org/wiki/Universidade_Estadual_Paulista) - [2022-2025]
+
+### 🚀 Habilidades
+
+- Linguagens de Programação: Python [Iniciante]
+- Outras Ferramentas: [WIP]
