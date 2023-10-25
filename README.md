@@ -13,7 +13,9 @@
 
 ### 🚀 Habilidades
 
-- Linguagens de Programação: Python [Iniciante] <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" height="25" alt="Python">
+- Linguagens de Programação:
+
+  Python [Iniciante] <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" height="25" alt="Python">
 - Outras Ferramentas: [WIP]
 
 ### 📫 Como me encontrar
@@ -41,7 +43,9 @@ I'm passionate about programming and technology, with a deep interest in creatin
 
 ### 🚀 Skills
 
-- Programming Languages: Python [Beginner] <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" height="25" alt="Python">
+- Programming Languages:
+
+  Python [Beginner] <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="25" height="25" alt="Python">
 - Other Tools: [WIP]
 
 ### 📫 How to reach me
