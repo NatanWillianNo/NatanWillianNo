@@ -9,7 +9,7 @@
 
 - 💻 Estagiário voluntário no [Laboratório de Relações Internacionais da UNESP](https://labriunesp.org/) - [Mai/2023] - [Out/2023] 
 - 💻 Estagiário no [Laboratório de Relações Internacionais da UNESP](https://labriunesp.org/) - [Nov/2023] - Presente
-- 🎓 Bacharelando em [Relações Internacionais] na [Faculdade de Ciências Humanas e Sociais - Câmpus de Franca](https://www.franca.unesp.br/) - [2022-2025]
+- 🎓 Bacharelando em [Relações Internacionais](https://www.franca.unesp.br/#!/graduacao/cursos-teste/relacoes-internacionais/) na [Faculdade de Ciências Humanas e Sociais - Câmpus de Franca](https://www.franca.unesp.br/) - [2022-2025]
 
 ### 🚀 Habilidades
 
